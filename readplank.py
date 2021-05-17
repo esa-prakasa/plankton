@@ -1,3 +1,5 @@
+# This file is used to read plankton images.
+
 import cv2
 import os
 import numpy as np
