@@ -3,7 +3,6 @@ import os
 import numpy as np
 import math
 
-
 os.system("cls")
 
 fullPath = r"C:\Users\INKOM06\Pictures\_DATASET\Pari19\Developed-Bacteriastrum furcatum (400X) PariIslandRisetPro19 St10.jpg"
@@ -20,9 +19,6 @@ img1 = img[100:580, 220:760]
 ret,th1 = cv2.threshold(img1,200,255,cv2.THRESH_BINARY)
 
 cv2.imshow("img",th1)
-
-
-
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
