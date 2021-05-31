@@ -7,6 +7,7 @@ os.system("cls")
 
 fullPath = r"C:\Users\INKOM06\Pictures\_DATASET\Pari19\Developed-Bacteriastrum furcatum (400X) PariIslandRisetPro19 St10.jpg"
 
+
 img = cv2.imread(fullPath)
 ratio = 0.2
 M = img.shape[0]
