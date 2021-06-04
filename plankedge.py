@@ -1,4 +1,4 @@
-# Edge images
+# Edge images - to show the edges
 
 import cv2
 import os
