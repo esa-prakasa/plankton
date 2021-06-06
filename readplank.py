@@ -1,4 +1,4 @@
-# This file is used to read plankton images.
+# This file is used to read plankton images. The image is then displayed in a new generated window.
 
 import cv2
 import os
