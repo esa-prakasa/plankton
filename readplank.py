@@ -24,17 +24,12 @@ for i in range (0,N,1):
 imgIdx = int(input("Give the image index!: "))
 img = cv2.imread(fileList[imgIdx])
 
-
-
 M = img.shape[0]
 N = img.shape[1]
 ratio = 0.05
 
 img = cv2.resize(img,(int(ratio*N), int(ratio*M)) , interpolation = cv2.INTER_AREA)   
 cv2.imshow("Original image", img)
-
-
-
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
