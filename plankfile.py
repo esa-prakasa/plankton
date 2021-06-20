@@ -3,7 +3,6 @@ import os
 import numpy as np
 import math
 
-
 os.system("cls")
 
 fullPath = r"C:\Users\INKOM06\Pictures\_DATASET\Pari19\Developed-Bacteriastrum furcatum (400X) PariIslandRisetPro19 St10.jpg"
