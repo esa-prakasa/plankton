@@ -6,8 +6,9 @@ import cv2
 os.system("cls")
 
 
-path0 = r"C:\Users\Esa\Pictures\_DATASET\Augmented_2\Augmented_2\Plank30"
+#path0 = r"C:\Users\Esa\Pictures\_DATASET\Augmented_2\Augmented_2\Plank30"
 
+path0 =r"C:\Users\Esa\Pictures\_DATASET\Plank30"
 
 jsonPath = os.path.join(path0,"ann")
 bwPath  =  os.path.join(path0,"bw")
