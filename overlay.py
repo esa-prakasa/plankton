@@ -3,12 +3,12 @@ import os
 import numpy as np
 
 
-#rgbPath = r"C:\Users\Esa\Pictures\_DATASET\Plank30\kFoldFolders\D3\Thalassiosira sp (large) (400X) PariIslandRisetPro19 St10_FDpXsbOPwA\images\Thalassiosira sp (large) (400X) PariIslandRisetPro19 St10_FDpXsbOPwA.jpg"
-#bwPath = r"C:\Users\Esa\Pictures\_DATASET\Plank30\result0\Thalassiosira sp (large) (400X) PariIslandRisetPro19 St10_FDpXsbOPwA.jpg"
+rgbPath = r"C:\Users\Esa\Pictures\_DATASET\Plank30\kFoldFolders\D3\Thalassiosira sp (large) (400X) PariIslandRisetPro19 St10_FDpXsbOPwA\images\Thalassiosira sp (large) (400X) PariIslandRisetPro19 St10_FDpXsbOPwA.jpg"
+bwPath = r"C:\Users\Esa\Pictures\_DATASET\Plank30\result0\Thalassiosira sp (large) (400X) PariIslandRisetPro19 St10_FDpXsbOPwA.jpg"
 
 
-rgbPath = r"C:\Users\Esa\Pictures\_DATASET\Plank30\kFoldFolders\D3\Chaetoceros laciniosus (200X) PariIslandRisetPro2019 St10\images\Chaetoceros laciniosus (200X) PariIslandRisetPro2019 St10.jpg"
-bwPath = r"C:\Users\Esa\Pictures\_DATASET\Plank30\result0\Chaetoceros laciniosus (200X) PariIslandRisetPro2019 St10.jpg"
+# rgbPath = r"C:\Users\Esa\Pictures\_DATASET\Plank30\kFoldFolders\D3\Chaetoceros laciniosus (200X) PariIslandRisetPro2019 St10\images\Chaetoceros laciniosus (200X) PariIslandRisetPro2019 St10.jpg"
+# bwPath = r"C:\Users\Esa\Pictures\_DATASET\Plank30\result0\Chaetoceros laciniosus (200X) PariIslandRisetPro2019 St10.jpg"
 
 
 
