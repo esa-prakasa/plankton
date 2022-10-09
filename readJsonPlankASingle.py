@@ -5,6 +5,8 @@ import cv2
 
 os.system("cls")
 
+// loading file
+
 jsonPath = r"C:\Users\Esa\Documents\___KEGIATAN-Ku 2021\01.21 -- Plankto IPK\IPB Conf 2021\Figures\Thalassionema nitzschioides-2 (200X) PariIslandRisetPro2019 St10.jpg.json"
 rgbPath = r"C:\Users\Esa\Documents\___KEGIATAN-Ku 2021\01.21 -- Plankto IPK\IPB Conf 2021\Figures\PlanktonSegmentation_Plank30_Thalassionema nitzschioides-2 (200X) PariIslandRisetPro2019 St10.jpg"
 
