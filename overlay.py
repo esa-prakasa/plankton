@@ -2,7 +2,7 @@ import cv2
 import os
 import numpy as np
 
-
+# set the paths
 rgbPath = r"C:\Users\Esa\Pictures\_DATASET\Plank30\kFoldFolders\D3\Thalassiosira sp (large) (400X) PariIslandRisetPro19 St10_FDpXsbOPwA\images\Thalassiosira sp (large) (400X) PariIslandRisetPro19 St10_FDpXsbOPwA.jpg"
 bwPath = r"C:\Users\Esa\Pictures\_DATASET\Plank30\result0\Thalassiosira sp (large) (400X) PariIslandRisetPro19 St10_FDpXsbOPwA.jpg"
 
